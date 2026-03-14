@@ -1,4 +1,5 @@
 Privacy Policy
+
 Last updated: March 14, 2026
 Surah Tawbah Quiz ("the App") is an educational tool developed by Quran Tech. This App is designed to provide users with a quiz experience based on religious lectures.
 1. Information Collection and Use The App does not collect, store, or transmit any personally identifiable information (PII). All user data, including:
